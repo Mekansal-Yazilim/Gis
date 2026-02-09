@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Gis.Core.BaseLibrary</id>
+    <version>1.0.0</version>
+    <authors>Gis.Core.BaseLibrary</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net9.0">
+        <dependency id="NetTopologySuite" version="2.6.0" exclude="Build,Analyzers" />
+        <dependency id="Volo.Abp.Core" version="9.0.2" exclude="Build,Analyzers" />
+        <dependency id="Volo.Abp.Ddd.Domain" version="9.0.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/home/turker/Packages/src/Gis.Core.BaseLibrary/bin/Release/net9.0/Gis.Core.BaseLibrary.dll" target="lib/net9.0/Gis.Core.BaseLibrary.dll" />
+  </files>
+</package>

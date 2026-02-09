@@ -1,0 +1,12 @@
+/home/turker/Packages/src/Gis.Core.BaseLibrary/bin/Release/net9.0/Gis.Core.BaseLibrary.deps.json
+/home/turker/Packages/src/Gis.Core.BaseLibrary/bin/Release/net9.0/Gis.Core.BaseLibrary.dll
+/home/turker/Packages/src/Gis.Core.BaseLibrary/bin/Release/net9.0/Gis.Core.BaseLibrary.pdb
+/home/turker/Packages/src/Gis.Core.BaseLibrary/obj/Release/net9.0/Gis.Core.BaseLibrary.csproj.AssemblyReference.cache
+/home/turker/Packages/src/Gis.Core.BaseLibrary/obj/Release/net9.0/Gis.Core.BaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/turker/Packages/src/Gis.Core.BaseLibrary/obj/Release/net9.0/Gis.Core.BaseLibrary.AssemblyInfoInputs.cache
+/home/turker/Packages/src/Gis.Core.BaseLibrary/obj/Release/net9.0/Gis.Core.BaseLibrary.AssemblyInfo.cs
+/home/turker/Packages/src/Gis.Core.BaseLibrary/obj/Release/net9.0/Gis.Core.BaseLibrary.csproj.CoreCompileInputs.cache
+/home/turker/Packages/src/Gis.Core.BaseLibrary/obj/Release/net9.0/Gis.Core.BaseLibrary.dll
+/home/turker/Packages/src/Gis.Core.BaseLibrary/obj/Release/net9.0/refint/Gis.Core.BaseLibrary.dll
+/home/turker/Packages/src/Gis.Core.BaseLibrary/obj/Release/net9.0/Gis.Core.BaseLibrary.pdb
+/home/turker/Packages/src/Gis.Core.BaseLibrary/obj/Release/net9.0/ref/Gis.Core.BaseLibrary.dll
