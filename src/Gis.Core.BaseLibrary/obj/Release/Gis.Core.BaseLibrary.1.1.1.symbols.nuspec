@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Gis.Core.BaseLibrary</id>
+    <version>1.1.1</version>
+    <authors>trkrgrcn</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <readme>README.md</readme>
+    <projectUrl>https://github.com/Mekansal-Yazilim/GisRepo</projectUrl>
+    <description>GIS altyapısı için temel kütüphane bileşenleri. ABP Framework tabanlı projelerle uyumludur.</description>
+    <tags>gis abp abp-framework modular infrastructure</tags>
+    <repository type="git" url="https://github.com/Mekansal-Yazilim/GisRepo" branch="refs/heads/main" commit="bd174c300fd9ddcf7589d77448d6649e1804186c" />
+    <dependencies>
+      <group targetFramework="net9.0">
+        <dependency id="NetTopologySuite" version="2.6.0" exclude="Build,Analyzers" />
+        <dependency id="ProjNET" version="2.1.0" exclude="Build,Analyzers" />
+        <dependency id="Volo.Abp.Core" version="9.0.2" exclude="Build,Analyzers" />
+        <dependency id="Volo.Abp.Ddd.Domain" version="9.0.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/home/turker/Packages/src/Gis.Core.BaseLibrary/bin/Release/net9.0/Gis.Core.BaseLibrary.pdb" target="lib/net9.0/Gis.Core.BaseLibrary.pdb" />
+  </files>
+</package>

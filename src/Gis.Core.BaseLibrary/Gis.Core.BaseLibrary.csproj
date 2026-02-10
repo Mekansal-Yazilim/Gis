@@ -1,0 +1,44 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+    <PackageId>Gis.Core.BaseLibrary</PackageId>
+    <Version>1.0.0</Version>
+
+    <Authors>trkrgrcn</Authors>
+    <Company>Mekansal Yazılım</Company>
+
+    <Description>GIS Core Library.</Description>
+    <PackageTags>gis;abp;abp-framework;modular;infrastructure</PackageTags>
+
+    <RepositoryUrl>https://github.com/Mekansal-Yazilim/Gis</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/Mekansal-Yazilim/Gis</PackageProjectUrl>
+    <RepositoryType>git</RepositoryType>
+
+    <PublishRepositoryUrl>true</PublishRepositoryUrl>
+    <IncludeSymbols>true</IncludeSymbols>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+
+   
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+
+   
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NetTopologySuite" Version="2.6.0" />
+    <PackageReference Include="ProjNET" Version="2.1.0" />
+    <PackageReference Include="Volo.Abp.Core" Version="9.0.2" />
+    <PackageReference Include="Volo.Abp.Ddd.Domain" Version="9.0.2" />
+
+   
+    <None Include="README.md" Pack="true" PackagePath="\" />
+  </ItemGroup>
+
+</Project>
