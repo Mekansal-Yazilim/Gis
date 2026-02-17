@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("GIS Core Library.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6138ed5ae6bdcc411faf50ff8ae35726aae9ce5c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gis.Core.BaseLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gis.Core.BaseLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v9.0": {
-      "Gis.Core.BaseLibrary/1.1.1": {
+      "Gis.Core.BaseLibrary/1.0.0": {
         "dependencies": {
           "NetTopologySuite": "2.6.0",
           "ProjNET": "2.1.0",
@@ -1028,7 +1028,7 @@
     }
   },
   "libraries": {
-    "Gis.Core.BaseLibrary/1.1.1": {
+    "Gis.Core.BaseLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
