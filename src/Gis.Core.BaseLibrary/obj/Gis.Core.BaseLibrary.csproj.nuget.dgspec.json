@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/home/turker/Packages/src/Gis.Core.BaseLibrary/Gis.Core.BaseLibrary.csproj": {}
+    "C:\\Users\\ortak\\source\\repos\\Mekansal-Yazilim\\GisRepo\\src\\Gis.Core.BaseLibrary\\Gis.Core.BaseLibrary.csproj": {}
   },
   "projects": {
-    "/home/turker/Packages/src/Gis.Core.BaseLibrary/Gis.Core.BaseLibrary.csproj": {
+    "C:\\Users\\ortak\\source\\repos\\Mekansal-Yazilim\\GisRepo\\src\\Gis.Core.BaseLibrary\\Gis.Core.BaseLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/turker/Packages/src/Gis.Core.BaseLibrary/Gis.Core.BaseLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\ortak\\source\\repos\\Mekansal-Yazilim\\GisRepo\\src\\Gis.Core.BaseLibrary\\Gis.Core.BaseLibrary.csproj",
         "projectName": "Gis.Core.BaseLibrary",
-        "projectPath": "/home/turker/Packages/src/Gis.Core.BaseLibrary/Gis.Core.BaseLibrary.csproj",
-        "packagesPath": "/home/turker/.nuget/packages/",
-        "outputPath": "/home/turker/Packages/src/Gis.Core.BaseLibrary/obj/",
+        "projectPath": "C:\\Users\\ortak\\source\\repos\\Mekansal-Yazilim\\GisRepo\\src\\Gis.Core.BaseLibrary\\Gis.Core.BaseLibrary.csproj",
+        "packagesPath": "C:\\Users\\ortak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ortak\\source\\repos\\Mekansal-Yazilim\\GisRepo\\src\\Gis.Core.BaseLibrary\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/turker/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ortak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -73,7 +80,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.308/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
