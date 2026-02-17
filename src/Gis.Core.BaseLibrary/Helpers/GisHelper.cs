@@ -5,6 +5,7 @@ namespace Gis.Core.BaseLibrary.Helpers;
 
 public static class GisHelper
 {
+
     private static readonly WKTReader _wktReader = new WKTReader();
     private static readonly WKTWriter _wktWriter = new WKTWriter();
 
