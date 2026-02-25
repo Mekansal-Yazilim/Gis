@@ -11,12 +11,13 @@ This package is specifically built to be used with the ABP Framework, ensuring s
 ```bash
 
 dotnet add package Gis.Core.BaseLibrary
+```
 
-### Modulde yayınlanacak feature object dto 
-'''
+### Modulde yayınlanacak FeatureDto yapısı
+```bash
 using OgcApi.Base;
 
-namespace BuildingModule.Application
+namespace ModuleName.Application
 {
     public class EntityFeatureDto : FeatureDto (ParselFeatureDto, BuildingFeatureDto gibi)
     {
@@ -34,15 +35,16 @@ namespace BuildingModule.Application
     }
 }
 
-'''
+```
 
-'''
+### Modul Provider Servisi 
+```bash
 using OgcApi.Base;
 using Volo.Abp.Application.Dtos;
 using Volo.Abp.Domain.Repositories;
 using NetTopologySuite.Geometries;
 
-namespace BuildingModule.Application
+namespace ModuleEntity.Application
 {
     public class BuildingFeatureProvider : IFeatureProvider
     {
@@ -86,4 +88,4 @@ namespace BuildingModule.Application
         }
     }
 }
-'''
+```
