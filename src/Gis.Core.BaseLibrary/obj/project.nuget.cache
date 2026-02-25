@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "yduWBFhEMts=",
+  "dgSpecHash": "yCM7ckguVuI=",
   "success": true,
   "projectFilePath": "/home/turker/Packages/src/Gis.Core.BaseLibrary/Gis.Core.BaseLibrary.csproj",
   "expectedPackageFiles": [
@@ -99,15 +99,5 @@
     "/home/turker/.nuget/packages/volo.abp.validation.abstractions/9.0.2/volo.abp.validation.abstractions.9.0.2.nupkg.sha512",
     "/home/turker/.nuget/packages/volo.abp.virtualfilesystem/9.0.2/volo.abp.virtualfilesystem.9.0.2.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "message": "Problem reading the cache file /home/turker/Packages/src/Gis.Core.BaseLibrary/obj/project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
-      "projectPath": "/home/turker/Packages/src/Gis.Core.BaseLibrary/Gis.Core.BaseLibrary.csproj",
-      "warningLevel": 1,
-      "filePath": "/home/turker/Packages/src/Gis.Core.BaseLibrary/Gis.Core.BaseLibrary.csproj",
-      "targetGraphs": []
-    }
-  ]
+  "logs": []
 }
