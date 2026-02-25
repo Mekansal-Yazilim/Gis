@@ -5,7 +5,13 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
-
+ <PackageId>Gis.Core.BaseLibrary</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Türker Gürcan</Authors>
+    <Company>Mekansal Yazılım</Company>
+    <Description>Core GIS functionalities with ABP and NetTopologySuite support.</Description>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+  </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="NetTopologySuite" Version="2.6.0" />
     <PackageReference Include="Volo.Abp.Core" Version="9.0.2" />
