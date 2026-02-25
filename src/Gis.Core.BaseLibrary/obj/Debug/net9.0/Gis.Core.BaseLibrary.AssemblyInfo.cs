@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gis.Core.BaseLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f521230f4e3ba89e25493bbaa5e770d3a2afbe1b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a58a12edd22aa0b3c5cd8764005908913cffbbb8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gis.Core.BaseLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gis.Core.BaseLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

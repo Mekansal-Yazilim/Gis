@@ -10,3 +10,4 @@
 /home/turker/Packages/src/Gis.Core.BaseLibrary/obj/Debug/net9.0/refint/Gis.Core.BaseLibrary.dll
 /home/turker/Packages/src/Gis.Core.BaseLibrary/obj/Debug/net9.0/Gis.Core.BaseLibrary.pdb
 /home/turker/Packages/src/Gis.Core.BaseLibrary/obj/Debug/net9.0/ref/Gis.Core.BaseLibrary.dll
+/home/turker/Packages/src/Gis.Core.BaseLibrary/obj/Debug/net9.0/Gis.Core.BaseLibrary.sourcelink.json
